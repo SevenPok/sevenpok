@@ -1,11 +1,14 @@
-## Hi there 👋, I'm Gerber Colindres
+## Hi there, I'm Gerber Colindres 👋
 
 ![](https://komarev.com/ghpvc/?username=SevenPok&color=blue)
 
 - 🌱 I’m currently learning NEXT JS.
 - 🔭 I’m currently working as a junior developer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenPok&show_icons=true&theme=radical)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SevenPok&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SevenPok&layout=compact&theme=radical"/>
+</div>
 
 [My portfolio](https://portfolio-orcin-beta-81.vercel.app/)
 <!--
