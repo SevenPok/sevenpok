@@ -60,20 +60,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SevenPok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SevenPok&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SevenPok&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🎯 Current Focus & Goals
 
 ```typescript
@@ -93,16 +79,6 @@ const currentFocus = {
 <div align="center">
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=SevenPok&repo=portfolio&theme=tokyonight&hide_border=true)](https://portfolio-nine-rust-62.vercel.app/)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://github.com/SevenPok/SevenPok/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
